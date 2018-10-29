@@ -1,6 +1,3 @@
-getwd()
-setwd("/Users/theresa_xie/Desktop/Practicum/Data")
-
 #######################################################
 #Data Preparation
 
